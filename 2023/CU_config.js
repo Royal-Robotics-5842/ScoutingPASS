@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023mnmi2",
+      "defaultValue": "2023alhu",
       "required": "true",
       "disabled": "true"
     },
@@ -22,6 +22,7 @@ var config_data = `
       "code": "l",
       "type": "level",
       "choices": {
+        "pr": "Practice<br>",
         "qm": "Quals<br>",
         "sf": "Semifinals<br>",
         "f": "Finals"
